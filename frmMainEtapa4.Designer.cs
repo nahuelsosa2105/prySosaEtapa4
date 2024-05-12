@@ -117,10 +117,12 @@
             // 
             // lstMostrarVehiculos
             // 
+            this.lstMostrarVehiculos.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lstMostrarVehiculos.FormattingEnabled = true;
+            this.lstMostrarVehiculos.ItemHeight = 24;
             this.lstMostrarVehiculos.Location = new System.Drawing.Point(21, 628);
             this.lstMostrarVehiculos.Name = "lstMostrarVehiculos";
-            this.lstMostrarVehiculos.Size = new System.Drawing.Size(512, 95);
+            this.lstMostrarVehiculos.Size = new System.Drawing.Size(512, 76);
             this.lstMostrarVehiculos.TabIndex = 10;
             // 
             // frmMainEtapa4
